@@ -4,17 +4,17 @@ Resources
 Webs
 ----
 
-* https://www.arduino.cc/en/Tutorial/SerialCallResponse
+* [Ardiuino](https://www.arduino.cc/en/Tutorial/SerialCallResponse)
 -------
-* https://community.computingatschool.org.uk/users/33254
-* https://www.markdownguide.org/cheat-sheet
-* https://github.com/MarkGadsby
-* https://learn.wecode24.com/animation-with-turtle-graphics/
-* https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html
-* https://www.turtle.ox.ac.uk/
-* http://www.catshill.com/robot/
+* [CAS](https://community.computingatschool.org.uk/users/33254)
+* [Markdown](https://www.markdownguide.org/cheat-sheet)
+* [GitHub](https://github.com/MarkGadsby)
+* [Animation](https://learn.wecode24.com/animation-with-turtle-graphics)
+* [Turing machine](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html)
+* [Turtle](https://www.turtle.ox.ac.uk)
+* [MicroBit Robot](http://www.catshill.com/robot)
 
 Books
 -----
 
-* Nature of Code Book by Daniel Shiffman
+* [Nature of Code Book by Daniel Shiffman](https://natureofcode.com)
