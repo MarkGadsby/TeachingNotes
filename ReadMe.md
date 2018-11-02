@@ -2,6 +2,5 @@
 
 *Repository for information about the pedagogy of Computer Science*
 
-* ### Web Resources
-
-  * [List of web pages](WebSites.md) 
+* #### [List of Web Pages](WebSites.md)
+* #### [List of Books](Books.md)

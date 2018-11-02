@@ -1,11 +1,7 @@
-Resources
+Web Sites
 =========
 
-Webs
-----
-
 * [Ardiuino](https://www.arduino.cc/en/Tutorial/SerialCallResponse)
--------
 * [CAS](https://community.computingatschool.org.uk/users/33254)
 * [Markdown](https://www.markdownguide.org/cheat-sheet)
 * [GitHub](https://github.com/MarkGadsby)
@@ -14,8 +10,3 @@ Webs
 * [Turtle](https://www.turtle.ox.ac.uk)
 * [MicroBit Robot](http://www.catshill.com/robot)
 * [TKinter](https://tkdocs.com/tutorial/index.html)
-
-Books
------
-
-* [Nature of Code Book by Daniel Shiffman](https://natureofcode.com)
