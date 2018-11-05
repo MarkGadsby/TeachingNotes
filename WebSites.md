@@ -1,7 +1,7 @@
 Web Sites
 =========
 
-* [Ardiuino](https://www.arduino.cc/en/Tutorial/SerialCallResponse)
+* [Arduino](https://www.arduino.cc/en/Tutorial/SerialCallResponse)
 * [CAS](https://community.computingatschool.org.uk/users/33254)
 * [Markdown](https://www.markdownguide.org/cheat-sheet)
 * [GitHub](https://github.com/MarkGadsby)
