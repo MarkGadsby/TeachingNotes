@@ -10,3 +10,4 @@ Web Sites
 * [Turtle](https://www.turtle.ox.ac.uk)
 * [MicroBit Robot](http://www.catshill.com/robot)
 * [TKinter](https://tkdocs.com/tutorial/index.html)
+* [Machine Learning](https://developers.google.com/machine-learning/crash-course)
