@@ -6,6 +6,8 @@
 - Solder cube into easy plug tool  
 - Get to first draft of snake game  
 - Work on UCAS application  
+- Catch up with Hello World
+- Exhibition reading  
 
 ## Might have extra day off - if I get half for Hove Park stuff
 
