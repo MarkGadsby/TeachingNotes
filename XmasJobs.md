@@ -8,6 +8,8 @@
 - Work on UCAS application  
 - Catch up with Hello World
 - Exhibition reading  
+- Sort bike hire
+- Sort Bottom Bracket on black bike
 
 ## Might have extra day off - if I get half for Hove Park stuff
 
