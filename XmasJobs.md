@@ -10,6 +10,7 @@
 - Exhibition reading  
 - Sort bike hire
 - Sort Bottom Bracket on black bike
+- Scrub patio - one day
 
 ## Might have extra day off - if I get half for Hove Park stuff
 
