@@ -1,7 +1,11 @@
-# Teaching Notes
+# Notes
 
-*Repository for information about the pedagogy of Computer Science*
+### Information about the pedagogy of Computer Science
 
 * #### [List of Web Pages](WebSites.md)
 * #### [List of Books](Books.md)
-* #### [Jobs](XmasJobs.md)
+
+### General Information
+
+* #### [Jobs](Jobs.md)
+* #### [Reading List](Bookers.md)
