@@ -11,3 +11,4 @@ Web Sites
 * [MicroBit Robot](http://www.catshill.com/robot)
 * [TKinter](https://tkdocs.com/tutorial/index.html)
 * [Machine Learning](https://developers.google.com/machine-learning/crash-course)
+* [Blender](https://medium.com/@behreajj/creative-coding-in-blender-a-primer-53e79ff71e)
