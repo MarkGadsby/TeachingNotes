@@ -75,7 +75,6 @@ We are going to spend a considerable time in discussing function because it has 
 - Optional parameter.
 - Positional argument and named argument.
 - Variable argument.
-- Single expression function.
 - Function type.
 - Function literals.
 - Callable references.
