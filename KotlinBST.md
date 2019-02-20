@@ -109,6 +109,18 @@ In **Kotlin,** all these kinds of traversal can be done in quite a simple way. F
 		
 		return a + arrayOf(m_key) + b
 	}
+	
+*A neat trick for in-order traversals: starting from the root, go around the tree counterclockwise. Print each node when you pass its bottom side.*
+
+	fun <T> traversalInOrder(node: Node<T>?, list: MutableList<T>) 
+	{
+		if (node != null) 
+		{
+			traversalInOrder(node.leftNode, list)
+			list.add(node.value)
+			traversalInOrder(node.rightNode, list)
+		}
+	}
 
 `?:` takes the right-hand value if the left-hand value is null (the elvis operator)
 	
