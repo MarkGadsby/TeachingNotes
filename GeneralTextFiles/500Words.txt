@@ -1,0 +1,14 @@
+When it comes to the role of computer science in the National Curriculum the watershed moment came in 2012 with publication of the Royal Society report Shut Down or Restart. This pivotal work highlighted the need to move from the ICT to computer science, to switch young people to be the makers of technology as well as the consumers. The report highlighted the importance of computational thinking with it's components of abstraction, algorithms, decomposition and pattern recognition as a good way of thinking that can be applied across the curriculum. Furthermore computer science itself has a growing influence across the sciences and engineering. There is predicted to be a high demand for computer sciences in cyber-security, machine learning and IT.    
+
+The changes recommended by this report have been challenging to some people in education  but for me they are the reason I want to be become a computer science teacher. I find the idea to bring programming and digital making into schools very exciting and feel I have a lot offer from my experience working as a C++ programmer in industry.
+
+CS faces a number of challenges that the 2017 Royal Society report After The Reboot identified. One area that I find particularly interesting is that of the pedagogy. Why is it that some people approach the subject with excitement and confidence, whilst others come with a whole host of preconceived ideas about the complexity of the subject and their perceived inability to overcome it? Why is it that boy's are often the most confident? For all that Steve Jobs has done to aid the spread of consumable technology it was Ada Lovelace who had the vision to predict computers would be able to compose music and this in 1843 before even the first computer had been built.
+
+I think a similar focus on practical applications can really bring the theory alive and really inspire the desire to get to grips with the detail. 
+
+My experience is that programming, like flying, is best learnt by doing. One line of code written yourself is much more valuable than ten copied down. But how to keep the focus going when you're still many lines of code away from the endorphin release of the working solution? I like the starting point presented by Dr. Sue Sentence called PRIMM as a way of building confidence.         
+
+
+
+What is the biggest challenge facing teachers today? Group interview
+
