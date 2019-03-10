@@ -13,4 +13,4 @@ Web Sites
 * [Machine Learning](https://developers.google.com/machine-learning/crash-course)
 * [Blender](https://medium.com/@behreajj/creative-coding-in-blender-a-primer-53e79ff71e)
 * [GitHub Teacher](https://education.github.com/teachers)
-* [Kotlin Ref](Kotlin.md)
+* [RUST primer](https://github.com/nrc/r4cppp)
