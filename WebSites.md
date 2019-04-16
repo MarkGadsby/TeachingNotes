@@ -14,3 +14,4 @@ Web Sites
 * [Blender](https://medium.com/@behreajj/creative-coding-in-blender-a-primer-53e79ff71e)
 * [GitHub Teacher](https://education.github.com/teachers)
 * [RUST primer](https://github.com/nrc/r4cppp)
+* [Unix basics](https://swcarpentry.github.io/shell-novice/)
