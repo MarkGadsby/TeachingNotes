@@ -20,6 +20,8 @@ Assessed on:
    - Gender balance
 - Current teaching practices
  - PRIMM
+ - Paired programming
+ - Unpluged activities
  - Using multi-media
 - Computing resources and there potential to engage students in the academic discipline of computer science
  - Raspberry pi
