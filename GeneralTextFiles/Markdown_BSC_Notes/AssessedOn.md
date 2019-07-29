@@ -1,4 +1,5 @@
-### On the day:
+On the day:
+=========
 
 - Subject knowledge test
  - Work through CSSubjectKnowledgeRequirements.pdf
@@ -8,7 +9,8 @@
    - [LessonPlan](LessonPlan.md)
 -Interview (20 minutes)
 
-### Assessed on:
+Assessed on:
+=========
 
 - School educational environments
  - Class size
@@ -55,3 +57,12 @@
 - Transfer industry experience to the school environment
  - Agile methodologies
  - GIT source control
+
+Web Sites:
+=========
+
+* [National curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
+* [KS2 Bitesize](https://www.bbc.com/bitesize/subjects/zvnrq6f)
+* [KS3 Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
+
+
