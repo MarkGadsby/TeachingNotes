@@ -52,3 +52,17 @@
 ##### Next time
  - We will use a program called Sonic Pi to see how we can break music into sequences and loops to make tunes like this - Demo
  - If you are interested in developing your turtle graphics skills come to Creative Computing after school Club and learn how we can use the skills we are learning to create animations like this one - Demo
+
+##### From Slides:
+ - Lesson objectives
+   - practical - see above
+   - macro - Probably at the start of year 7, so need to ascertain level of experience within the class
+   - pique interest in the potential of programming for fun and creatitivity. 
+ - Lesson timings
+ - Introduction and contextualisation
+ - Main content – knowledge
+ - Main content – activities
+ - Summary / plenary
+ - Challenging and supporting students
+ - Considering gender
+ 
