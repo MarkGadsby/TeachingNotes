@@ -18,6 +18,7 @@ Assessed on:
  - Demographic
    - Pupil premium
    - Gender balance
+ - Academisation
 - Current teaching practices
  - PRIMM
  - Paired programming
@@ -28,8 +29,12 @@ Assessed on:
  - Arduino
  - Sonic Pi
  - Blender
+ - Rosetta Code
+ - BBC Bitesize
 - Leadership & management potential in the school context
  - Scout hiking training
+ - Employee representative
+ - Innovation champion
 - Potential for professionally developing others
  - C#, git and modern C++ features
 - Influence & enthuse SLT & fellow teachers
@@ -39,6 +44,8 @@ Assessed on:
    - creative drawing using recursion
 - Take responsibility for others work & resource allocation
 - Make decisions which ensure projects success and team objectives
+ - Take on chunks of functionality such as MSChart in Pathfinder
+ - Gun servers for Nexsa
 - Analytical & systematic approach to problem solving
  - Application of computational thinking on daily basis
   - MXR7
@@ -66,5 +73,3 @@ Web Sites:
 * [National curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
 * [KS2 Bitesize](https://www.bbc.com/bitesize/subjects/zvnrq6f)
 * [KS3 Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
-
-
