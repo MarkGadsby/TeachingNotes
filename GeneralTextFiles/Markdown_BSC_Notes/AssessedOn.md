@@ -73,3 +73,6 @@ Web Sites:
 * [National curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
 * [KS2 Bitesize](https://www.bbc.com/bitesize/subjects/zvnrq6f)
 * [KS3 Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
+* [More National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
+* [OCR](https://www.ocr.org.uk/Images/225975-specification-accredited-gcse-computer-science-j276.pdf)
+* [AQA](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
