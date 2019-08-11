@@ -33,7 +33,7 @@
 - Everyone
   - Be able to draw a colour shape on coloured background using turtle graphics in python
 - Most
-  - Be able to introduce a 'for' loop
+  - Be able to introduce a 'while' loop
 - Some
   - Introduce a variable to set the number of sides of the polygon
 - Stretch goal
@@ -56,7 +56,7 @@
  - Lesson objectives
    - practical - see above
    - macro - Probably at the start of year 7, so need to ascertain level of experience within the class
-   - pique interest in the potential of programming for fun and creatitivity. 
+   - pique interest in the potential of programming for fun and creatitivity.
  - Lesson timings
  - Introduction and contextualisation
  - Main content – knowledge
@@ -64,4 +64,3 @@
  - Summary / plenary
  - Challenging and supporting students
  - Considering gender
- 
