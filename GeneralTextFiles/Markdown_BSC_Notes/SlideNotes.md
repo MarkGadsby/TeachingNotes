@@ -8,14 +8,14 @@
 	- Elegant Code
 	- Imaginative artifacts
  - Turtle Graphics
-	- Developed at MIT by a team of three including Cynthia Solomon
+	- Developed at a team including Seymour Papert & Cynthia Solomon
 		- Work on AI
 		- Educational computing
 	- Make it easier to apply real world drawing to computer screen
  - Computers
-	- How they affect out live
+	- How they affect our eveyday lives
  - Decomposition
-	- Breaking things down to small steps
+	- Breaking tasks down to small steps
  - Python
 	- A programming language
  - Sequence 
@@ -41,7 +41,8 @@
 #### 6. Decomposition 
   
 #### 7. Drawing a Square
- - Thought about pair progamming here, decided on whole class approach
+ - Thought about pair programming here, decided on whole class approach
+ - Get peaple to think in tearms of a turtle with a pen in it's mouth
  
 #### 8. Scratch - Flow Chart - Python
  - Point out the different setheading implementations
@@ -50,6 +51,31 @@
 ### Section Three - 30 mins
  - Complete the Tasks provided 
  
+#### 9. 
+ - Task one	
+
+#### 10. 
+ - Python commands to be passed round 
+
+#### 11. 
+ - Want to see great colour range used
+
+#### 12. 
+ - Task two	
+ 
+#### 13 - after 15 mins 
+ - Introduce loop to draw each side
+ 
+#### 14
+ - illustrated code 
+ 
+#### 15
+ - stretch goal 
+
+ 
+ 
+
+
 ### Section Four - Wrap up 10 mins 
 
  
