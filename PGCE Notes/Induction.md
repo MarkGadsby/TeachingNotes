@@ -4,10 +4,6 @@
  - student number = GAD19466564
  - e-mail = gadsbym@roehampton.ac.uk  
 
-#### ToDo
- - Take passport and DBS form to Oxted
- - Bring in form next week
- - 1000 words due in 16th September
 
 #### Miles Berry
 
@@ -17,9 +13,6 @@
 
  - First draft of first 3,500 words due in 25th Oct - Final 7th Jan.  
  - First draft of second 3,500 words due in 21st Apr - Final 27th May.  
-
-#### Slides
- http://bit.ly/PGSCL0
 
 #### Sandra Craig
   - You can use 'I' when writing reflectively
