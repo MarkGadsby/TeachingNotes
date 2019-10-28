@@ -1,0 +1,15 @@
+﻿When it comes to the role of computer science in the National Curriculum the watershed moment came in 2012 with publication of the Royal Society report Shut Down or Restart. This pivotal work highlighted the need to move from the ICT to computer science. The changes recommended by this report have been challenging to some people in education but for me they are the reason I want to be become a computer science teacher. I find the idea of bringing programming and digital making into schools very exciting and feel I have a lot offer from my experience working as a C++ programmer in industry.
+
+We need students to be the creators of technology they consume such as apps, web sites and computer programs. 
+
+The report highlighted how computational thinking with it's components of abstraction, algorithms, decomposition and pattern recognition could be applied across the curriculum effectively. The link with the other STEM subjects is most apparent but computer science can be applied in imaginative ways in every subject including the creative arts. 
+
+Furthermore computer science itself has a growing influence across the sciences and engineering. I can vouch that many scientific experiments are modelled in computer simulations to a larger and larger degree in industry. Also there is predicted to be a high demand for computer sciences in cyber-security, machine learning, IT and the games and film industries.    
+
+CS faces a number of challenges that the 2017 Royal Society report After The Reboot identified. One area that I find particularly interesting is that of the pedagogy. Why is it that some people approach the subject with excitement and confidence, whilst others come with a whole host of preconceived ideas about the complexity of the subject and their perceived inability to overcome it? Why is it that boy's are often the most confident? For all that Steve Jobs has done to aid the spread of consumable technology it was Ada Lovelace who had the vision to predict computers would be able to compose music and this in 1843 before Apple, before Alan Turing and even the first computer had been built.
+
+So there is plenty to challenge the computing and digital educator, but we have strategies to help us overcome them. Digital artefacts embracing all three areas of computing; computer science, IT and digital literacy only need a spark of creativity to bring into life. We can encourage the use of the Agile methodologies in project planning bringing in ideas like rapid prototyping, sprints and minimum viable product. We have ideas to help pupils make the leap from blank page to working programs like Dr Sue Sentence’s PRIMM approach. All this to bring to life the theory that people learn best through making things for other people made famous by Seymore Papert the inventor of logo and turtle graphics.
+
+It is certainly my experience that computer programming is very much like flying in that you have to do it yourself. We also have some great modern high level programming languages to use such as Rust and Kotlin along side the more traditional ones like C++.      
+
+ 

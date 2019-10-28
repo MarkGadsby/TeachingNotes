@@ -1,0 +1,14 @@
+ - #include <vorbis/vorbisfile.h>
+ - #include <alsa/asoundlib.h>
+
+ - snd_pcm_t
+ - snd_pcm_sframes_t 
+ - snd_pcm_open	
+ - snd_pcm_set_params
+ - OggVorbis_File
+ - ov_fopen
+ - ov_info
+ - ov_read
+ - ov_clear
+ - snd_pcm_writei
+ - snd_pcm_close
