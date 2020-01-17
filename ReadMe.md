@@ -1,4 +1,4 @@
-# Notes
+## Notes
 
 ### Information about the pedagogy of Computer Science
 
