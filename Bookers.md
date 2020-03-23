@@ -32,7 +32,7 @@
 
 # 2015
 [x] *Marlon James - A Brief History of Seven Killings*  
-[ ] Tom McCarthy - Satin Island  
+[x] Tom McCarthy - Satin Island  
 [x] Chigozie Obioma - The Fishermen  
 [ ] Sunjeev Sahota - The Year of the Runaways  
 [ ] Anne Tyler - A Spool of Blue Thread  
@@ -61,3 +61,11 @@
 [ ] Rachel Kushner - The Mars Room  
 [ ] Richard Powers - The Overstory  
 [ ] Robin Robertson - The Long Take  
+
+# 2019
+[ ] Lucy Ellmann - Ducks, Newburyport   
+[ ] Chigozie Obioma - An Orchestra of Minorities   
+[ ] Salman Rushdie - Quichotte  
+[ ] Elif Shafak - 10 Minutes 38 Seconds in This Strange World  
+[ ] *Margaret Atwood - The Testaments*  
+[ ] *Bernardine Evaristo - Girl, Woman, Other*  
