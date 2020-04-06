@@ -15,3 +15,4 @@ Web Sites
 * [GitHub Teacher](https://education.github.com/teachers)
 * [RUST primer](https://github.com/nrc/r4cppp)
 * [Unix basics](https://swcarpentry.github.io/shell-novice/)
+* [Pi Net](http://pinet.org.uk/)
