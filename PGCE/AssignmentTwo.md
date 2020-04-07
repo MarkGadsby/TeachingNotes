@@ -8,6 +8,10 @@ Using the literature, **plan a sequence of four to six lessons** which uses this
 
 ### Introduction (500)
 
+The national curriculum for computing aims to ensure that all pupils:
+
+- can analyse problems in computational terms, and have repeated  practical experience of writing computer programs in order to solve such problems
+
 The aspect of assessment I have selected for this assignment is programming projects. I am convinced that it is through programming computers that a deep understanding of the power and potential of computers  can be archived. It is an activity that can in itself be highly motivating and rewarding for students. It is this practical element of computing that ties our subject to other creative subjects taught like art & design, design & technology and music. It is recognised that developing a young persons critical judgement, imagination and intuition though the type of experimentation and perseverance that computer programming can instil will not only enhance an individuals chances of economic success but also contribute positively to their health and well-being and help them develop a healthy relationship with their community (Newton, 2019).  Thanks to the persuasive powers of the British Computer Society, computing has the advantage over the other subjects in the creative sphere in that it has been included in the English Baccalaureate. It may well be that it's through our subject that pupils are garnered a rare opportunity to express their hard won theoretical knowledge in a creative practical manner. 
 
 
@@ -24,7 +28,13 @@ solving problems and expressing their creativity through programming
 
 ### Assessment approach (1000)
 
-My approach to this a
+#### Section on assessment generally
+
+#### Section on programming projects as means of assessment
+
+#### Section on using Greenfoot as a practical tool for programming projects  
+
+
 
 ### Planning (500)
 
@@ -73,10 +83,6 @@ Miles bemoans the removal by Ofqual from the marked content of the computer scie
 *possibly more here on the AQA\OCR programming project guidance*
 
 
-
-The national curriculum for computing aims to ensure that all pupils:
-
-- can analyse problems in computational terms, and have repeated  practical experience of writing computer programs in order to solve such problems
 
 If you are going to settle on one language and go for depth rather then breath, let that be 'C' as it sit close to the machine and clearly represents the fundamental principles of computing.
 
