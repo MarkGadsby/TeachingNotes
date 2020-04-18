@@ -7,8 +7,3 @@
 ### General Information
 
 * #### [Reading List](Bookers.md)
-
-### BHASVIC Information
-
-* #### [BHASVIC](BHASVIC.md)
-
