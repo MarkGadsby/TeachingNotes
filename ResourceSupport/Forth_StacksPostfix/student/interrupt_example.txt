@@ -1,0 +1,22 @@
+      MOV R0,#isr1
+      STR R0,.PinISR
+      MOV R0,#1
+      STR R0,.PinMask
+      STR R0,.InterruptRegister
+start: mov r0,#0
+outer: add r0,r0,#1
+      mov r1,#0
+inner: add r1,r1,#1
+      cmp r1,#12
+      str r0,.WriteUnsignedNum
+      bne inner
+      cmp r0,#12
+      bne outer
+      b start
+isr1: push {r0}
+      mov r0,#1
+      str r0,testLocation
+      pop {r0}
+      rfe
+testLocation: .WORD 0xffffffff
+
