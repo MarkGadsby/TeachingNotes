@@ -2,8 +2,8 @@
 
 ### Information about the pedagogy of Computer Science
 
-* #### [List of Web Pages](WebSites.md)
+* #### [List of Web Pages](NoteTree/WebSites.md)
 
 ### General Information
 
-* #### [Reading List](Bookers.md)
+* #### [Reading List](NoteTree/Bookers.md)
