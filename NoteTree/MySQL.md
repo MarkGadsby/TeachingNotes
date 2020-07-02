@@ -41,6 +41,6 @@ To load data
 
 ```
 find ~/Music -type d -links 2 > ~/Code/MusicPlayer/PathParser/paths.txt
-mysql > LOAD DATA LOCAL INFILE '/home/pi/parsed.txt' INTO TABLE Albums;
+mysql > LOAD DATA LOCAL INFILE '/home/pi/Code/MusicPlayer/PathParser/parsed.txt' INTO TABLE Albums;
 ```
 
