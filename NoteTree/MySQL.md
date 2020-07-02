@@ -40,6 +40,7 @@ mysql > --local_infile=1 -u root -p;
 To load data
 
 ```
+find ~/Music -type d -links 2 > ~/Code/MusicPlayer/PathParser/paths.txt
 mysql > LOAD DATA LOCAL INFILE '/home/pi/parsed.txt' INTO TABLE Albums;
 ```
 

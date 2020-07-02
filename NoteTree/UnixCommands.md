@@ -95,3 +95,11 @@ To copy all new music files
 cp -RT -u ~/Music/ /media/mark/MUSIC/
 ```
 
+Info about me 
+
+```
+hostname
+hostname -i
+hostname -I
+```
+
