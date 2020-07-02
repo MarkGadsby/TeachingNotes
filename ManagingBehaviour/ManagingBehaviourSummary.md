@@ -1,4 +1,8 @@
+### Note from BHASVIC
 
+You are always communicating what is acceptable. We are the policeman - I prefer ref.
+
+------
 
 - Use the phrase, ‘I need you to’, when giving instructions to individuals.
 - Change the way you end the lesson and send students off.
