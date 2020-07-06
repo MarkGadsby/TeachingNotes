@@ -19,3 +19,18 @@ Default PCM: 44100	48000  - Pulse Code Modulation
 Bit depth: 16	20	24
 
 - number of bits for each sample
+
+### Bug list
+
+- Doesn't handle '&' - replace with &amp: in both Artist and Title
+
+- Check box can start out of sync
+
+- Tiers don't work yet
+
+- Now playing feedback need displaying
+
+  
+
+
+

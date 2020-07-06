@@ -103,3 +103,10 @@ hostname -i
 hostname -I
 ```
 
+Find
+
+```
+
+find -name "FileToGo.*" -delete
+```
+
