@@ -22,13 +22,15 @@ Bit depth: 16	20	24
 
 ### Bug list
 
-- Doesn't handle '&' - replace with &amp: in both Artist and Title
+- Tool tips could have the the title by artist rather than just title 
 
 - Check box can start out of sync
 
 - Tiers don't work yet
 
 - Now playing feedback need displaying
+
+- Get files into git
 
   
 
