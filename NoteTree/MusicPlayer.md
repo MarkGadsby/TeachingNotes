@@ -22,15 +22,17 @@ Bit depth: 16	20	24
 
 ### Bug list
 
-- Tool tips could have the the title by artist rather than just title 
+- [x] Tool tips could have the the title by artist rather than just title 
 
-- Check box can start out of sync
+- [x] Check box can start out of sync
 
-- Tiers don't work yet
+- [x] Tiers don't work yet
 
-- Now playing feedback need displaying
+- [x] Get files into git
 
-- Get files into git
+- [ ] Web site address could be human readable
+
+- [ ] Now playing feedback need displaying
 
   
 

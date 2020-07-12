@@ -44,3 +44,10 @@ find ~/Music -type d -links 2 > ~/Code/MusicPlayer/PathParser/paths.txt
 mysql > LOAD DATA LOCAL INFILE '/home/pi/Code/MusicPlayer/PathParser/parsed.txt' INTO TABLE Albums;
 ```
 
+To Get php working with MySQL
+
+```
+sudo apt install php-mysqli
+sudo service apache2 restart
+```
+
