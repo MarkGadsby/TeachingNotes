@@ -66,6 +66,7 @@ SSH copy:
 ```
 scp *.* pi@192.168.1.22:RetroPie/roms/mame-libretro
 scp -r ~/Music pi@192.168.1.6:
+scp Waxahatchee/Saint\ Cloud/*.* pi@192.168.1.6:Music/
 quicker:
 rsync -avP ~/Music pi@192.168.1.6:
 ```
