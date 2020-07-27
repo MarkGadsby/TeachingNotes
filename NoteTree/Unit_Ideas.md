@@ -12,6 +12,12 @@
 ### Robots
 
 - Some good [Projects](https://projects.raspberrypi.org/en/projects/?interests[]=robotics) here
-
   
+### Microbits 
+
+- [Classroom](https://classroom.microbit.org/) 
+- [Microbit](https://microbit.org) 
+- Open Broadcast Software
+- **Brain, Book, Buddy**
+
 

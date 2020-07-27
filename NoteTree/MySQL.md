@@ -24,6 +24,7 @@ Random SQL
 > DELETE FROM Albums;
 > SHOW Databases
 > SELECT Artist FROM Albums GROUP BY Artist HAVING COUNT(Artist) > 1;
+> INSERT INTO Albums (Aritst, Title, Path, Tier) VALUES ("Slowdive", "Just for a day", "./Music/Slowdive/Just for a day", 2);
 
 ```
 
