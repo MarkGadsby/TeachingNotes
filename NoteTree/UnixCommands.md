@@ -66,9 +66,8 @@ SSH copy:
 ```
 scp *.* pi@192.168.1.22:RetroPie/roms/mame-libretro
 scp -r ~/Music pi@192.168.1.6:
-scp -r ~/Music/Slowdive/* pi@192.168.1.6:Music/Slowdive/ // Slowdive needs to exsit already
-quicker:
-rsync -avP ~/Music pi@192.168.1.6:
+
+scp -r ~/Music/Soul\ Jazz\ Records/Studio\ One\ Selector "pi@192.168.1.6:Music/Soul\\ Jazz\\ Records" // This will make Studio One Selector directory
 ```
 
 To find where package is installed:
