@@ -49,3 +49,4 @@ Teaching Day:
 - [ ] Section 11(2.2.1) - **Programming Techniques** - Basics, Selection, Iteration, Subroutines and Recursion. IDE, OOP.
 - [ ] Section 12 (2.3.1) - **Algorithms** - Analysis and design of algorithms, searching, sorting, graph traversal and optimisation. 
 
+[Fetch execute](http://static.hartismere.com/ictskills/FetchExecute2018.swf)
