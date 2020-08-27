@@ -46,7 +46,12 @@ Teaching Day:
 
 - [ ] Section 7 (1.4.2) - **Data Structures** - Arrays, tuples and records, Queues, Lists and linked lists, stacks, hash tables, graphs and trees. 
 - [ ] Section 8 (1.4.3) - **Boolean Algebra** - Logic gates and truth tables, Simplifying Boolean expressions, Karnaugh maps, Adders and D-type flip-flops.
+
+[Logic Gate Sim](https://academo.org/demos/logic-gate-simulator/)
+
 - [ ] Section 11(2.2.1) - **Programming Techniques** - Basics, Selection, Iteration, Subroutines and Recursion. IDE, OOP.
 - [ ] Section 12 (2.3.1) - **Algorithms** - Analysis and design of algorithms, searching, sorting, graph traversal and optimisation. 
 
 [Fetch execute](http://static.hartismere.com/ictskills/FetchExecute2018.swf)
+
+[Revision](https://www.physicsandmathstutor.com/computer-science-revision/)
