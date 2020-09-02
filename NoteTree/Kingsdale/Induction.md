@@ -45,7 +45,10 @@ Teaching Day:
 **Year 13** **Programming Project** then 
 
 - [ ] Section 7 (1.4.2) - **Data Structures** - Arrays, tuples and records, Queues, Lists and linked lists, stacks, hash tables, graphs and trees. 
+
 - [ ] Section 8 (1.4.3) - **Boolean Algebra** - Logic gates and truth tables, Simplifying Boolean expressions, Karnaugh maps, Adders and D-type flip-flops.
+
+  *Examples of Boolean expressions from A level text, Isaac, PMT and Computer Science on line*
 
 [Logic Gate Sim](https://academo.org/demos/logic-gate-simulator/)
 
