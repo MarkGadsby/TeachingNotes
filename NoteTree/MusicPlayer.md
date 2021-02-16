@@ -20,6 +20,18 @@ Bit depth: 16	20	24
 
 - number of bits for each sample
 
+
+
+#### Pi details
+
+ssh pi@192.168.4.1
+
+password = music
+
+ping 192.168.4.1 -c4
+
+
+
 ### Bug list
 
 - [x] Tool tips could have the the title by artist rather than just title 
